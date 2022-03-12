@@ -1,0 +1,11 @@
+{
+	"domain": "arvio_emaxx",
+	"name": "Arvio Emaxx",
+	"documentation": "https://github.com/jamiepenney/ha_arvio_emaxx",
+	"requirements": [
+		"arvio-emaxx-reader==0.5.0"
+	],
+	"version": "1.0.0",
+	"dependencies": [],
+	"codeowners": ["jamiepenney"]
+  }
